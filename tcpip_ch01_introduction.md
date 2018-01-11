@@ -1,6 +1,7 @@
 # INTRODUCTION
+***
 ## summary
->- A network is a group of connected, communicating devices. An internet is two or more networks that can communicate with each other. The most notable internet is called the Internet, composed of hundress of thousands of interconnected networks.
+>- A network is a group of connected, communicating devices. An internet is two or more networks that can communicate with each other. The most notable internet is called the **Internet**, composed of hundress of thousands of interconnected networks.
 >- The histroy of internetworking started with ARPA in the mid-1960s. The birth of the Internet can be associated with the work of Cerf and kahn and the invention of a gateway to connect networks. In 1977, the Defense Communication Agency(DCA) took the responsibility of the ARPANET and used two protocols called TCP and IP to handle the routing of datagrams between individual networks. MILNET, CSNET, NSFNET, ANSNET, are all evolved from the ARPANET.
 >- The Internet to day is made up of many wide and local area networks joined by connecting devices and switching stations. Today most end users who want Internet connection use the services of Internet wervie providers(ISPs). There are backbone ISPs, regional ISPs, and local ISPs.
 >- A protocol is a set of rules that governs communication. The key elements of a protocol are syntax, semantics, and timing. in computer networks, communication occures between entities in different systems. For communication to occur, the entities must agree ona protocol. A protocol defines what is communicated, how it is communicated, and when it is communicated.
