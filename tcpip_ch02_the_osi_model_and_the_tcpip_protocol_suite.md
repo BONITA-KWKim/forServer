@@ -1,6 +1,7 @@
-#Layers in the OSI Model
+Layers in the OSI Model
+---
 
->##physical Layer
+># physical Layer
 > - moving individual bits from on (node) to the next
 > - Physical characteristics of interfaces and media
 > - Representation of bits
@@ -16,4 +17,4 @@
 
 ***
 
->##Data Link Layer
+># Data Link Layer
