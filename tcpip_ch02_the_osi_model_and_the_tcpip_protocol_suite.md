@@ -2,7 +2,7 @@ Layers in the OSI Model
 ---
 
 ># physical Layer
-> - moving individual bits from on (node) to the next
+> moving individual bits from on (node) to the next
 > - Physical characteristics of interfaces and media
 > - Representation of bits
 > - Data rate(transmissionrate).
@@ -18,3 +18,11 @@ Layers in the OSI Model
 ***
 
 ># Data Link Layer
+> 
+> - Framing
+>  : make data manageable data units(frame)
+> - Physical addressing
+> - Flow control
+> - Error control
+>  : detect and retransmit damaged or lost frames.
+> - Access control
